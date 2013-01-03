@@ -1,4 +1,5 @@
-should_i_cook
+Should I Cook
 =============
 
-Simple website for shouldicook.com.
+Simple application for determining whether or not you should cook.
+
